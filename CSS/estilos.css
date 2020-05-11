@@ -1,0 +1,38 @@
+body {
+    background: #233048;
+    background-size: auto 100vh;
+    color: white;
+    font-family: verdana;
+    height: 100vh;
+  }
+  
+  .menu {
+    background-color: white;
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .menu li {
+    list-style:none;
+  }
+  
+  a {
+    color: teal;
+    text-decoration: none;
+  }
+  
+  a:houver {
+    text-decoration: underline;
+  }
+  
+  .site-title {
+    text-align: center;
+  }
+  
+  .site-subtitle {
+    font-style: italic;
+    text-align: center;
+  }
